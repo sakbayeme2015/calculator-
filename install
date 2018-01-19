@@ -1,0 +1,4 @@
+install the tkinter library for GUI 
+pip install tkinter 
+
+after python calculator.py 
