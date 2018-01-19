@@ -1,0 +1,25 @@
+This is Calculator coding in Python 
+
+Addition 
+Subtraction 
+Multiplication 
+Division 
+strings ( 0,1,2,3,4,5,6,7,9, A,B,C,D,E,F, x)  
+
+Functions 
+cos , sin , tan, exp, log, log10, pi, 
+
+conversion 
+
+decimal in binary  ( dec>bin) 
+decimal in hexadecimal (dec>hex)
+decimal in octet  (dec>oct) 
+sumbinary ( binary addition , multiplication, subtraction )  >> sumbin 
+binary in decimal  ( bin>dec) 
+sumhexadecimal ( sumhex) >> addition , subtraction, multiplication 
+octet in decimal (oct>dec) 
+binary in hex ( bin>hex) 
+sumoctet ( addition , multplication, subtraction in octet ) >> sumoct 
+
+etc........
+
